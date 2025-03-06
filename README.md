@@ -10,7 +10,7 @@
 |----------|---------------------------------|----------|---------|
 | 3/4(화)   | 추상과 구체                          | DAY 2 미션 | 발자국 1주차 |
 | 3/5(수)   | 논리, 사고의 흐름, 객체지향 패러다임           |          |         |
-| 3/6(목)   | SOLID                           | [DAY4 미션](https://github.com/jaewoo9797/readable-code/blob/main/study/Mission2.md)  |         |
+| 3/6(목)   | SOLID                           | [DAY4 미션 제출](https://github.com/jaewoo9797/readable-code/blob/main/study/Mission2.md)  |         |
 | 3/7(금)   | 객체 지향 적용하기                      |          |         |
 | 3/10(월)  | 리팩토링: 코드 다듬기                    |          | 발자국 2주차 |
 | 3/11(화)  | 클린 코드 리팩토링 실습                   | DAY7 미션  |         |
