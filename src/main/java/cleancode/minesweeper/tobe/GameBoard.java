@@ -46,7 +46,8 @@ public class GameBoard {
                 if (count == 0) {
                     continue;
                 }
-                board[row][col] = new NumberCell(count);;
+                board[row][col] = new NumberCell(count);
+                ;
             }
         }
     }
