@@ -48,8 +48,7 @@ public class StudyCafeSeatPass implements StudyCafePass {
         return price;
     }
 
-    public double getDiscountRate() {
-        return discountRate;
+    public int getDisCountPrice() {
+        return (int) (this.price * discountRate);
     }
-
 }
