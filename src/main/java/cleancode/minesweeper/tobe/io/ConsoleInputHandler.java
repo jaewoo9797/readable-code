@@ -11,10 +11,6 @@ public class ConsoleInputHandler implements InputHandler {
 
     public final BoardIndexConverter boardIndexConverter = new BoardIndexConverter();
 
-    @Override
-    public String getUserInput() {
-        return SCANNER.nextLine();
-    }
 
     @Override
     public UserAction getUserActionFromUser() {
